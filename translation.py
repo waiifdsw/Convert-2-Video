@@ -12,6 +12,7 @@ source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
     
     """
     ABS_TEXT = " Please don't be selfish."
+    BANNED_USER_TEXT = "you are banned"
     UPGRADE_TEXT = "Use @FileconvertRobot 🥰"
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
