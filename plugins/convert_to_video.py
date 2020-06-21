@@ -64,17 +64,17 @@ async def convert_to_video(bot, update):
             )
         )
         if the_real_download_location is not None:
-            await bot.edit_message_text(
+             bot.edit_message_text(
                 text=Translation.SAVED_RECVD_DOC_FILE,
                 chat_id=update.chat.id,
                 message_id=a.message_id
             )
             # don't care about the extension
-            await bot.edit_message_text(
-                text=Translation.UPLOAD_START,
-                chat_id=update.chat.id,
-                message_id=a.message_id
-            )
+           # await bot.edit_message_text(
+             #   text=Translation.UPLOAD_START,
+            #    chat_id=update.chat.id,
+            #    message_id=a.message_id
+         #   )
             logger.info(the_real_download_location)
             # get the correct width, height, and duration for videos greater than 10MB
             # ref: message from @BotSupport
