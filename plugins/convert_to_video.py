@@ -41,8 +41,7 @@ async def convert_to_video(bot, update):
         )
         return
     elif update.document:
-    users.append(update.from_user.id)
-  #  if update.reply_to_message is not None:
+    if update.reply_to_message is not None:
         description = Translation.CUSTOM_CAPTION_UL_FILE
         download_location = Config.DOWNLOAD_LOCATION + "/"
         a = await bot.send_message(
