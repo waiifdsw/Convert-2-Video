@@ -28,7 +28,7 @@ Expires on: {}"""
 👉 <a href="https://telegram.dog/FileConvertRobot">Convert To Streamable video any telegram file</a>
 --------
 
-🔥 Source code : <a href='https://github.com/sahadz/convert-2-video'>Click here</a>
+🔥 How to deploy : <a href='https://youtu.be/zQamSjXBpJU'>Click here</a>
 
     © Group   : @InfotelGroup
     © Channel : @DX_BotZ 
