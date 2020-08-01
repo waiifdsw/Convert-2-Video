@@ -34,7 +34,5 @@ class Config(object):
     PROCESS_MAX_TIMEOUT = 3600
     # watermark file
     DEF_WATER_MARK_FILE = ""
-    # Sql Database url
+    # Sql Database url By [Aiden]
     DB_URI = os.environ.get("DATABASE_URL", "")
-    #Custom Caption[Beta-Aiden]
-    CUSTM_CAPN=" "
