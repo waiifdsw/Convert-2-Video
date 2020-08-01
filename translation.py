@@ -1,6 +1,6 @@
 class Translation(object):
-    START_TEXT = """ Simple Telegram Renaming BOT Edited By This [MAN](https://tx.me/AID_3N)
-              🎈 @DX_BOTZ @DX_BOTZ🎈
+    START_TEXT = """ Rename BOT BY THIS [MAN](https://tx.me/AID_3N)
+              🎈 @DX_BOTZ 🎈
 <b>@DX_BOTZ</b>"""
 
     RENAME_403_ERR = "There Is Some Error With The File"
