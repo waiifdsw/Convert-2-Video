@@ -65,3 +65,14 @@ async def upgrade(bot, update):
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
     )
+
+ @Client.on_message(Filters.command(["about"]))
+async def upgrade(bot, update):
+    # LOGGER.info(update)
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.ABOUT_USER,
+        parse_mode="html",
+        reply_to_message_id=update.message_id,
+        disable_web_page_preview=True
+    ) 
