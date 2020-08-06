@@ -65,14 +65,16 @@ async def upgrade(bot, update):
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
     )
-
- @pyrogram.Client.on_message(Filters.command(["about"]))
+  
+@pyrogram.Client.on_message(pyrogram.Filters.command(["about"]))
 async def upgrade(bot, update):
-    # LOGGER.info(update)
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/about")
     await bot.send_message(
         chat_id=update.chat.id,
         text=Translation.ABOUT_USER,
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True
-    ) 
+    )
+ 
