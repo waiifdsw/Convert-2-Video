@@ -66,7 +66,7 @@ async def upgrade(bot, update):
         disable_web_page_preview=True
     )
 
- @Client.on_message(Filters.command(["about"]))
+ @pyrogram.Client.on_message(Filters.command(["about"]))
 async def upgrade(bot, update):
     # LOGGER.info(update)
     await bot.send_message(
