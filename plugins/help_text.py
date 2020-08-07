@@ -78,3 +78,14 @@ async def upgrade(bot, update):
         disable_web_page_preview=True
     )
  
+@pyrogram.Client.on_message(pyrogram.Filters.command(["plan"]))
+async def upgrade(bot, update):
+    # logger.info(update)
+    TRChatBase(update.from_user.id, update.text, "/plan")
+    await bot.send_message(
+        chat_id=update.chat.id,
+        text=Translation.PLAN_TEXT,
+        parse_mode="html",
+        reply_to_message_id=update.message_id,
+        disable_web_page_preview=True
+    ) 
