@@ -44,12 +44,8 @@ Expires on: Until my Death 😍```"""
  Send file
  Send custom Thumbnail
  Reply the file - /rename New Name.mkv
-
-My Commands
-
-/start - Check whether im alive or not
-/help - Get this help message
-/about - About Me"""
+ ----------
+ Channel:© @TG_BotZ
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
