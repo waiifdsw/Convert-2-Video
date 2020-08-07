@@ -26,12 +26,12 @@ Channel:-© @TG_BotZ
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     ABOUT_USER =""" 
 ○ My Name : Renamer 
-○ Creator : href="https://t.me/LNS4N3">Iήsͥⱥne</a> 
+○ Creator :<a href="https://t.me/lNS4N3">Iήsͥⱥne</a> 
 ○ Credits : Everyone in this journey
 ○ Language: Python3
-○ Library : href="https://docs.pyrogram.org">Pyrogram asyncio 0.16.1</a>
-○ Source Code: href="https://t.me/nokkiirunnoippokittum">👉 Click Here</a>
-○ Server : href="https://herokuapp.com/">Heroku</a>
+○ Library :<a href="https://docs.pyrogram.org">Pyrogram asyncio 0.16.1</a>
+○ Source Code:<a href="https://t.me/nokkiirunnoippokittum">👉 Click Here</a>
+○ Server :<a href="https://herokuapp.com/">Heroku</a>
 ○ Build Status : V2.1 [BETA]"""
 
     CUSTOM_CAPTION_UL_FILE = "**Renamed By @TGRename_Bot**"
