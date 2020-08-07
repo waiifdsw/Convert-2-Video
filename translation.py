@@ -27,7 +27,8 @@ Channel:-© @TG_BotZ
     ABOUT_USER =""" 
 ○ My Name : Renamer 
 ○ Creator :<a href="https://t.me/lNS4N3">Iήsͥⱥne</a> 
-○ Credits : Everyone in this journey
+○ Credits : Everyone in this 
+            journey
 ○ Language: Python3
 ○ Library :<a href="https://docs.pyrogram.org">Pyrogram asyncio 0.16.1</a>
 ○ Source Code:<a href="https://t.me/nokkiirunnoippokittum">👉 Click Here</a>
@@ -37,13 +38,16 @@ Channel:-© @TG_BotZ
     CUSTOM_CAPTION_UL_FILE = "**Renamed By @TGRename_Bot**"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """ Hei, Follow These steps..
+    HELP_USER = """**Hei, Follow These steps..
     
  Send file
+
  Send custom Thumbnail
+
  Reply the file - /rename New Name.mkv
- ----------
- Channel:© @TG_BotZ"""
+
+ ----------------------------------
+ Channel:© @TG_BotZ**"""
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
