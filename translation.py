@@ -35,9 +35,6 @@ Channel:-© @TG_BotZ
 ○ Build Status : V2.1 [BETA]"""
 
     CUSTOM_CAPTION_UL_FILE = "**Renamed By @TGRename_Bot**"
-    PLAN_TEXT = "**Hai Your Plan Details**
-```plan name: Free User
-Expires on: Until my Death 😍```"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """ Hei, Follow These steps..
