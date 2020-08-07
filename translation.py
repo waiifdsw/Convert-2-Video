@@ -33,9 +33,7 @@ Channel:-© @TG_BotZ
 ○ Source Code:<a href="https://t.me/nokkiirunnoippokittum">👉 Click Here</a>
 ○ Server :<a href="https://herokuapp.com/">Heroku</a>
 ○ Build Status : V2.1 [BETA]"""
-    PLAN_TEXT ="""**Hai Your Plan Details**
-```Plan name: Free User
-Expires on: Until my Death 😍```""" 
+   
     CUSTOM_CAPTION_UL_FILE = "**Renamed By @TGRename_Bot**"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
