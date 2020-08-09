@@ -43,16 +43,18 @@ Channel:-© @TG_BotZ
     CUSTOM_CAPTION_UL_FILE = "**Renamed By @TGRename_Bot**"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """**Hei, Follow These steps..
+    HELP_USER = """
+ **Hei, Follow These steps..**
     
- Send file
+ **Send file**
 
- Send custom Thumbnail
+ **Send custom Thumbnail**
 
- Reply the file - /rename New Name.mkv
+ **Reply the file - /rename New Name.mkv**
 
- ----------------------------------
- Channel:© @TG_BotZ**"""
+ ------------------------------
+
+ Channel:© @TG_BotZ"""
 
     REPLY_TO_DOC_FOR_RENAME_FILE = "Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
