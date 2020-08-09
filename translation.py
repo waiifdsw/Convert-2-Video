@@ -24,15 +24,21 @@ Channel:-© @TG_BotZ
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
     ABOUT_USER =""" 
-○ My Name : Renamer 
-○ Creator :<a href="https://t.me/lNS4N3">Iήsͥⱥne</a> 
-○ Credits : Everyone in this 
-            journey
-○ Language: Python3
-○ Library :<a href="https://docs.pyrogram.org">Pyrogram asyncio 0.16.1</a>
-○ Source Code:<a href="https://t.me/nokkiirunnoippokittum">👉 Click Here</a>
-○ Server :<a href="https://herokuapp.com/">Heroku</a>
-○ Build Status : V2.1 [BETA]"""
+ ○ **My Name** : Renamer
+
+○ **Creator** : <a href="https://t.me/lNS4N3">lNS4N3</a> 
+
+○ **Credits** : ```Everyone in this journey```
+
+○ **Language** : Python3
+
+○ **Library** : <a href="https://docs.pyrogram.org/">Pyrogram asyncio 0.16.1</a> 
+
+○ **Source Code** : <a href=" https://t.me/nokkiirunnoippokittum">👉 Click Here</a> 
+
+○ **Server** : <a href="https://herokuapp.com/">Heroku</a> 
+
+○ **Build Status** : v2.1[Beta]""" 
    
     CUSTOM_CAPTION_UL_FILE = "**Renamed By @TGRename_Bot**"
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
