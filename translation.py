@@ -3,7 +3,7 @@ class Translation(object):
 
 ```You can rename any Telegram Document, using this bot! With custom thumbnail```
 
-** Do one By One rename. Otherwise you will get Permenent Ban**
+**Do one By One rename. Otherwise you will get Permenent Ban**
 
 Channel:-© @TG_BotZ
 
@@ -12,8 +12,8 @@ Channel:-© @TG_BotZ
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
-    DOWNLOAD_START = "trying to download"
-    UPLOAD_START = "trying to upload"
+    DOWNLOAD_START = "Downloading To My Server 📥"
+    UPLOAD_START = "Uploading To Telegram 📤"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me Join @TG_BotZ**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
@@ -23,8 +23,8 @@ Channel:-© @TG_BotZ
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom thumbnail cleared succesfully."
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "✅ Media cleared succesfully."
     SAVED_RECVD_DOC_FILE = "Document Downloaded Successfully."
-    ABOUT_USER =""" 
- ○ **My Name** : Renamer
+    ABOUT_USER ="""
+○ **My Name** : Renamer
 
 ○ **Creator** : <a href="https://t.me/lNS4N3">lNS4N3</a> 
 
