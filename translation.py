@@ -12,9 +12,9 @@ Channel:-© @TG_BotZ
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
-    DOWNLOAD_START = "**Downloading To My Server 📥**"
-    UPLOAD_START = "**Uploading To Telegram 📤**"
-    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
+    DOWNLOAD_START = "**DOWNLOADING 📥**"
+    UPLOAD_START = "**UPLOADING 📤**"
+    RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2 GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me Join @TG_BotZ**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
@@ -48,13 +48,13 @@ Channel:-© @TG_BotZ
     HELP_USER = """
  **Hei, Follow These steps..**
     
- **Send file**
+**1.Send file**
 
- **Send custom Thumbnail**
+**2.Send custom Thumbnail**
 
- **Reply the file - /rename New Name.mkv**
+**3.Reply the file - /rename New Name.mkv**
 
- ------------------------------
+ -----------------------------------
 
  Channel:© @TG_BotZ"""
 
