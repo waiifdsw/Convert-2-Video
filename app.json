@@ -14,7 +14,7 @@
     "remote",
     "uploader"
   ],
-  "success_url": "https://telegram.dog/AnyDLBot",
+  "success_url": "https://telegram.dog/Urlpkusbot",
   "website": "https://github.com/SpEcHiDe/AnyDLBot",
   "repository": "https://github.com/SpEcHiDe/AnyDLBot",
   "env": {
